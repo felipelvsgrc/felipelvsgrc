@@ -17,6 +17,7 @@ these technologies, but I leave them here as part of my past experience.
 
 - 🎨 Bootstrap
 - 🐍 Django
+- 🐍 FastAPI
 - 🐍 Flask
 - 🌬️ Tailwind CSS
 - ⚡ Vue.js
