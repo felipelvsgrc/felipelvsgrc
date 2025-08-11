@@ -1,10 +1,10 @@
-# 👋 About Me
+# About Me
 
 I am no longer a programmer, but throughout my career, I have worked with
 various programming languages, frameworks, and databases. I no longer study
 these technologies, but I leave them here as part of my past experience.
 
-## 💻 Programming and Markup Languages I’ve Worked With
+## Programming and Markup Languages I’ve Worked With
 
 - 🎨 CSS
 - 🌐 HTML
@@ -13,7 +13,7 @@ these technologies, but I leave them here as part of my past experience.
 - 🐘 PHP
 - 🐍 Python
 
-## 🧰 Frameworks and Libraries I’ve Worked With
+## Frameworks and Libraries I’ve Worked With
 
 - 🎨 Bootstrap
 - 🐍 Django
@@ -21,17 +21,17 @@ these technologies, but I leave them here as part of my past experience.
 - 🌬️ Tailwind CSS
 - ⚡ Vue.js
 
-## 🗃️ Databases I’ve Worked With
+## Databases I’ve Worked With
 
 - 🍃 MongoDB
 - 🐘 PostgreSQL / SQL
 - 🧊 SQLite
 
-## 🌐 Other Technologies
+## Other Technologies
 
 - 🧾 JSP (JavaServer Pages)
 
-## 🔭 My Current Focus
+## My Current Focus
 
 These days, my focus is on personal development through the study of subjects
 like history, philosophy, religion, and other areas that allow me to reflect
