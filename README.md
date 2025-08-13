@@ -36,5 +36,4 @@ these technologies, but I leave them here as part of my past experience.
 
 These days, my focus is on personal development through the study of subjects
 like history, philosophy, religion, and other areas that allow me to reflect
-deeply on myself and the world around me. I’m constantly engaging in
-introspection and expanding my understanding of life and existence.
+deeply on myself and the world around me.
